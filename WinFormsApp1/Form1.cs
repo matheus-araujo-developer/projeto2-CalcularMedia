@@ -18,17 +18,21 @@ namespace WinFormsApp1
 
             media = (nota1 + nota2 + nota3) / 3;
 
-            txtMedia.Text = Convert.ToString(media, CultureInfo.InvariantCulture);
+            txtMedia.Text = Convert.ToString(media);
 
-            //Condição IF
-            if (media >= 7)
+            switch (media)
             {
-                lblSituacao.Text = "APROVADO";
+                case >= 7:
+                    lblSituacao.Text = "ALUNO APROVADO COM SUCESSO";
+                    break;
+                case < 3:
+                    lblSituacao.Text = "ALUNO MUITO ABAIXO DA MÉDIA";
+                    break;
+                default:
+                    lblSituacao.Text = "ALUNO REPROVADO";
+                    break;
             }
-            else
-                lblSituacao.Text = "REPROVADO";
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             txtMedia.Text = " ";

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\CalculadorDeMedia\\WinFormsApp1\\CalculadorDeMedia.csproj",
-      "projectName": "CalculadorDeMedia",
-      "projectPath": "C:\\Users\\mathe\\source\\repos\\CalculadorDeMedia\\WinFormsApp1\\CalculadorDeMedia.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\CalculadorDeMedia\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "C:\\Users\\mathe\\source\\repos\\CalculadorDeMedia\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mathe\\source\\repos\\CalculadorDeMedia\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",

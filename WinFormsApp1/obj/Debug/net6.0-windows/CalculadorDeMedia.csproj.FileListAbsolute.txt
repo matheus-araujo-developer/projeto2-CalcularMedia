@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.AssemblyInfo.cs
+C:\Users\mathe\source\repos\CalculadorDeMedia\WinFormsApp1\obj\Debug\net6.0-windows\CalculadorDeMedia.csproj.CoreCompileInputs.cache
